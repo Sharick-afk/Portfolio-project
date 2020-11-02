@@ -813,7 +813,7 @@ main {
   border: 0;
   right: -5%;
   z-index: 100;
-  background: url(img/arrow_R.png) 0 0/100% no-repeat;
+  background: url(img/arrow_r.png) 0 0/100% no-repeat;
   padding: 10px;
   cursor: pointer;
 }
